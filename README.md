@@ -30,3 +30,5 @@ libideviceactivation 1.1.1-17-gecc10ef
 ideviceinstaller 1.1.1-39-g1431d42
 
 
+2024.09.28
+idevicerestore 1.0.0-219-g511261e
