@@ -3,6 +3,18 @@
 No need to Brew install dependencies, use it directly
 
 Packing date:
+2024.11.30
+
+libtatsu 1.0.4-4-g7661cad
+
+libplist 2.6.0-11-gc1e3868
+
+libimobiledevice-glue 1.3.1-7-gfee0ca0
+
+libusbmuxd 2.1.0-11-g052df06
+
+libimobiledevice 1.3.0-259-gac617a8
+
 
 2024.11.06
 
